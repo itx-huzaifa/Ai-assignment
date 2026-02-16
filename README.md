@@ -1,5 +1,3 @@
-# Ai-assignment
-
 # MNIST Handwritten Digit Recognition using Keras
 
 This repository contains a solution for training a neural network on the MNIST dataset to recognize handwritten digits. The project is implemented using **TensorFlow/Keras** in a Google Colab notebook (`.ipynb`).
